@@ -58,6 +58,7 @@ python -m pip install -r requirements.txt
 2. 从 Hugging Face 下载模型：
    - [Janus-Pro-1B](https://huggingface.co/deepseek-ai/Janus-Pro-1B)
    - [Janus-Pro-7B](https://huggingface.co/deepseek-ai/Janus-Pro-7B)
+   或者懒一点，直接在ComfyUI/models/Janus-Pro/目录下克隆即可
 3. 将模型解压到各自的文件夹中：
    ```
    ComfyUI/models/Janus-Pro/Janus-Pro-1B/
